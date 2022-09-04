@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imTanuJaiswal
 - 👀 I’m interested in Learning and Travelling.
-- 🌱 I’m currently learning Full Stack Development. 
+- 🌱 I’m Software Develeopment Engineer at my training period towards Full Stack Web Development. 
 - 🌱 Currently, I'm pursuing Master of Computer Application.
 - 💞️ I’m looking to collaborate on project(s).
 - 📫 How to reach me ...E-Mail- tanujaiswal998@gmail.com
