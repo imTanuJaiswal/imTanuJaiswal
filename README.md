@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development. 
 - 🌱 Currently, I'm pursuing Master of Computer Application.
 - 💞️ I’m looking to collaborate on project(s).
-- 📫 How to reach me ...E-Mail- tanujaiswal998@gmail.com)
+- 📫 How to reach me ...E-Mail- tanujaiswal998@gmail.com
 
 <!---
 imTanuJaiswal/imTanuJaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
